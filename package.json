@@ -1,0 +1,11 @@
+{
+  "name": "teste_jasmine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rasec23rj/testes_automatizados.git",
+  "author": "rasec23rj <rasec23rj@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jasmine": "^3.7.0"
+  }
+}
